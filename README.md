@@ -1,4 +1,6 @@
 🎵 Music Store Database 🎶
+
+
 Welcome to the Music Store Database, a fully-featured SQL database designed to handle the backend operations of a music retail store. 
 This project provides a complete relational database schema to manage artists, albums, customers, and orders, giving you a solid foundation for building your own music store or using it as a learning tool for SQL.
 
